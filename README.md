@@ -77,7 +77,9 @@ An **Interactive Habit Tracker** designed to help users maintain productivity by
 
 
 ---
-
+## Deployment
+You can view the live version of the project here: [Interactive Habit Tracker](https://mayaunnikrishnan.github.io/Interactive-Habit-Tracker-System/)
+---
 ## Future Enhancements
 1. Allow tracking multiple habits.
 2. Add a calendar view for monthly habit tracking.
